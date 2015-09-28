@@ -1,0 +1,15 @@
+{
+  "name": "jobDms",
+  "version": "0.1.0-beta",
+  "author": {
+    "name": "Tag Commander",
+    "email": "dev@tagcommander.com"
+  },
+  "contributors": [
+    {
+      "name": "Tag Commander",
+      "email": "dev@tagcommander.com"
+    }
+  ],
+  "main": "main.js"
+}
